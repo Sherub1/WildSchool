@@ -10,9 +10,6 @@ Email: [taiclet@laposte.net]
 ---
 [![Photo de profil]( https://www.cjoint.com/c/NBrnmygL0Hy)]( https://www.cjoint.com/c/NBrnmygL0Hy)
 
-## Objectif Professionnel
-[Brève description de vos objectifs professionnels]
-
 ## Compétences
 
 - Adaptation
@@ -23,30 +20,30 @@ Email: [taiclet@laposte.net]
 
 ## Centres d'Intérêt
 
-- Intérêt 1
-- Intérêt 2
-- Intérêt 3
+- Informatique
+- Photograpie
+- Cycle
 
 </div>
 
 <div style="flex-basis:66%; text-align:center;">
 ## Expérience Professionnelle
 
-### [Nom du Poste]
-**Entreprise**: [Nom de l'Entreprise]  
-**Période**: [Mois/Année - Mois/Année]  
+### [Technicien réparation en produits électroniques]
+**Entreprise**: [CEAT Electronique]  
+**Période**: [06/2021 - 09/2023]  
 **Responsabilités et réalisations**:
-- Responsabilité 1
-- Responsabilité 2
-- Réalisation 1
-
-### [Nom du Poste]
-**Entreprise**: [Nom de l'Entreprise]  
-**Période**: [Mois/Année - Mois/Année]  
+- Diagnostique et réparation de vélo électrique avec suivi informatique.
+- Emission de devis le cas échéant.
+- Controle qualité
+  
+### [Technicien réparateur électroménager]
+**Entreprise**: [Envie]  
+**Période**: [03/2018 - 03/2020]  
 **Responsabilités et réalisations**:
-- Responsabilité 1
-- Responsabilité 2
-- Réalisation 1
+- Service après vente électroménager
+- Dresser un premier diagnostique,localiser la panne,réparer/changer la pièce défectueuse.
+- Regler et controler le fonctionement de la machine
 
 ---
 
