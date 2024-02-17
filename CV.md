@@ -28,6 +28,15 @@ Email: [taiclet@laposte.net]
 </div>
 
 <div style="flex-basis:66%; text-align:left;">
+
+*Polyvalent et curieux, je suis convaincu que mes capacités
+d'adaptation et à acquérir de nouvelles compétences seront
+clef dans un environnement professionnel en constante
+évolution. Mon parcours diversifié démontre ma capacité à
+intégrer des domaines variés, et je suis enthousiaste à l'idée
+de relever de nouveaux défis pour continuer à développer mes
+compétences.*
+
 ## Expérience Professionnelle
 
 ### Technicien réparation en produits électroniques
