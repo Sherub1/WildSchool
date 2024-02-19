@@ -18,7 +18,7 @@
 ## Hobbies
 - Evidemment l'informatique en général,je monte mes PC "*Since 1871*" ;).Pour majoritairement du gaming,l'utilisation d'IA tel que Stable Diffusion,le developpement photo etc..
 - La photographie au sens large,avec une préference pour l'argentique avec de vieux appareils.
-- Le vélo dans sa philosophie,je met le lien d'un documentaire qui retranscrit bien la passion pour cette vieille invention [!The soul of a cyclist](https://www.primevideo.com/-/fr/detail/0FZWV7YQKAFRWYPD8SW6AB6P9R/ref=atv_hm_wat_c_0sLMfd_1_1?language=fr_FR)
+- Le vélo dans sa philosophie,je met le lien d'un documentaire qui retranscrit bien la passion pour cette vieille invention ![The soul of a cyclist](https://www.primevideo.com/-/fr/detail/0FZWV7YQKAFRWYPD8SW6AB6P9R/ref=atv_hm_wat_c_0sLMfd_1_1?language=fr_FR)
 
 
 
