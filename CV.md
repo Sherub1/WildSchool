@@ -12,7 +12,7 @@
 
 ## Expériences Professionnelle
 - J'ai travaillé environ 15 ans,dans la décoration et l'amenagement interieur.En majorité pour des restaurants et discothèques.
-[!Pour exemple](https://www.destinationdijon.com/wp-content/uploads/wpetourisme/0---L-Emile-Brochettes-3.jpg)
+![Pour exemple](https://www.destinationdijon.com/wp-content/uploads/wpetourisme/0---L-Emile-Brochettes-3.jpg)
 - Ensuite je me suis orienté vers des domaines plus "technique" tel que la réparation électronique,le SAV gros electroménager.
 
 ## Hobbies
